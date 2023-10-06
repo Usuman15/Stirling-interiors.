@@ -1,0 +1,80 @@
+.ab {
+    margin-top: 20px;
+    width: 21%;
+    height: 3%;
+}
+
+#small {
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+    word-spacing: 3px;
+}
+
+.col-md-6 a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.col-md-6 a:hover {
+    color: black;
+}
+
+#nav {
+    margin-top: 25px;
+    font-size: small;
+}
+
+#nav a {
+    color: gray;
+}
+
+#nav a:hover {
+    color: black;
+}
+
+#sub-menu {
+    font-size: small;
+}
+
+#sub-menu a {
+    color: gray;
+}
+
+#sub-menu a:hover {
+    color: black;
+}
+
+#OURPROCESS {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#nav1 a,
+#nav2 a {
+    color: gray;
+}
+
+#nav1 a:hover,
+#nav2 a:hover {
+    color: white;
+}
+
+#nav1 a,
+#nav2 a {
+    color: gray;
+}
+
+#nav1 a:hover,
+#nav2 a:hover {
+    color: white;
+}
+
+#nav3 a {
+    color: white;
+    text-decoration: none;
+}
+
+#nav3 a:hover {
+    color: gray;
+}

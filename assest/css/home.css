@@ -1,0 +1,95 @@
+.ab{
+    margin-top: 20px;
+    width: 21%;
+    height: 3%;
+}
+#small{
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+    word-spacing: 3px;
+}
+.col-md-6 a{
+    text-decoration: none;
+    color: #fff;
+}
+.col-md-6 a:hover {
+    text-decoration: underline;
+    color:black;
+}
+#nav{
+    margin-top: 25px;
+    font-size: small;
+}
+#nav a{
+    color: gray;
+    text-decoration: none;
+}
+#nav a:hover{
+    color: black;
+}
+#sub-menu{
+    font-size: small;
+}
+#sub-menu a{
+    color: grey;
+}
+#sub-menu a:hover{
+    color: black;
+}
+.welcome img{
+    width: 100%;
+    height: 100%;
+}
+#aboutstir,#oservices{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.und a{
+    text-decoration: underline;
+    color: gray;
+}
+.und a:hover{
+    color: black;
+    text-decoration: underline;
+}
+.trophy{
+    font-size: large;
+}
+.ourclint{
+    background-color: rgb(236, 233, 229);
+}
+#ourclint{
+    font-size: x-large;
+}
+a:hover{
+    color: black;
+}
+.very a{
+    color: grey;
+text-decoration: none;
+}
+.very a:hover{
+    color: black;
+}
+.right{
+    text-align: right;
+}
+#nav1 a, #nav2 a{
+    color: gray;
+}
+#nav1 a:hover, #nav2 a:hover{
+color: white;
+}
+#nav1 a, #nav2 a{
+    color: gray;
+}
+#nav1 a:hover, #nav2 a:hover{
+color: white;
+}
+#nav3 a{
+    color: white;
+    text-decoration: none;
+}
+#nav3 a:hover{
+   color:  gray;
+}

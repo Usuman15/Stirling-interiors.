@@ -1,0 +1,111 @@
+.ab {
+    margin-top: 20px;
+    width: 21%;
+    height: 3%;
+}
+
+#small {
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+    word-spacing: 3px;
+}
+.contact img{
+    width: 100%;
+    height: 100%;
+}
+.col-md-6 a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.col-md-6 a:hover {
+    color: black;
+}
+
+#nav {
+    margin-top: 25px;
+    font-size: small;
+}
+
+#nav a {
+    color: gray;
+}
+
+#nav a:hover {
+    color: black;
+}
+
+#sub-menu {
+    font-size: small;
+}
+
+#sub-menu a {
+    color: gray;
+}
+
+#sub-menu a:hover {
+    color: black;
+}
+
+.welcome{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mail a {
+    text-decoration: none;
+    color: gray;
+}
+.mail a:hover{
+    color: black;
+}
+
+.capta{
+    padding: 90px 50px;
+    letter-spacing: 1px;
+    color: gray;
+    border: 1px solid rgb(199, 196, 196);
+    border-radius: 3px;
+}
+.capta a:hover{
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+#office a{
+    padding: 15px 100px;
+    letter-spacing: 1px;
+    color: gray;
+    border: 1px solid gray;
+}
+#office a:hover{
+    color: black;
+}
+
+#nav1 a,
+#nav2 a {
+    color: gray;
+}
+
+#nav1 a:hover,
+#nav2 a:hover {
+    color: white;
+}
+
+#nav1 a,
+#nav2 a {
+    color: gray;
+}
+
+#nav1 a:hover,
+#nav2 a:hover {
+    color: white;
+}
+
+#nav3 a {
+    color: white;
+    text-decoration: none;
+}
+
+#nav3 a:hover {
+    color: gray;
+}
